@@ -42,3 +42,14 @@ func main() {
 
 ## [filepath](https://golang.org/pkg/path/filepath/)
 
+
+## Go Project
+
+*** Get Project ***
+```
+$ go get github.com/milouyah/go
+package github.com/milouyah/go: no Go files in /home/milou/go/src/github.com/milouyah/go
+```
+
+## go-module
+### [Using Go Modules](https://blog.golang.org/using-go-modules)
